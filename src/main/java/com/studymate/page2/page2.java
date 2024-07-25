@@ -262,5 +262,5 @@ public class page2 extends Application {
         imageView.setPreserveRatio(true);
         document.close();
         return imageView;
-    }
+    
 }
