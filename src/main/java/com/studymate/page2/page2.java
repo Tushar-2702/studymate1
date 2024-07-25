@@ -261,6 +261,4 @@ public class page2 extends Application {
         imageView.setFitWidth(600); // Adjust the width as needed
         imageView.setPreserveRatio(true);
         document.close();
-        return imageView;
-    }
-}
+       
